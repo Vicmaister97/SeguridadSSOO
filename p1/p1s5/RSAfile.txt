@@ -1,0 +1,2 @@
+MENSAJE PARA ANTONIO:
+Este mensaje está cifrado exclusivamente para ti, Antonio, con tu clave pública, pues sólo tu posees la clave privada.
