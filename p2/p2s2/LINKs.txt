@@ -1,0 +1,14 @@
+FORTIFY_SOURCE
+https://access.redhat.com/blogs/766093/posts/1976213 
+
+Stackguard
+https://access.redhat.com/blogs/766093/posts/3548631 
+
+PRESENTACIÓN EXPLOTACIÓN BINARIOS
+https://www.slideshare.net/rootedcon/manuel-blanco-gnulinux-binary-exploitation-iii 
+
+Protecciones de seguridad en el espacio de usuario Linux
+https://deixapaso.wordpress.com/2012/03/14/protecciones-de-seguridad-en-el-espacio-de-usuario-de-linux/ 
+
+White Rabbit y CTF (CAPTURE THE FLAG)
+https://www.fwhibbit.es/write-up-del-reto-reversing-linux-binary
