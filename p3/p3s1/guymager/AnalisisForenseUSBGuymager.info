@@ -1,0 +1,118 @@
+
+GUYMAGER ACQUISITION INFO FILE
+==============================
+
+Guymager
+========
+
+Version              : 0.7.4-2                                                                             
+Compilation timestamp: 2015-06-29-08.16.51                                                                 
+Compiled with        : gcc 4.9.2                                                                           
+libewf version       : 20140608                                                                            
+libguytools version  : 2.0.4                                                                               
+Host name            : VKCOMPUTRON                                                                         
+Domain name          : (none)                                                                              
+System               : Linux VKCOMPUTRON 4.4.0-53-generic #74-Ubuntu SMP Fri Dec 2 15:59:10 UTC 2016 x86_64
+
+
+Device information
+==================
+Command executed: bash -c "search="`basename /dev/sdb`: H..t P.......d A..a de.....d" && dmesg | grep -A3 "$search" || echo "No kernel HPA messages for /dev/sdb""
+Information returned:
+----------------------------------------------------------------------------------------------------
+   No kernel HPA messages for /dev/sdb
+
+Command executed: bash -c "smartctl -s on /dev/sdb ; smartctl -a /dev/sdb"
+Information returned:
+----------------------------------------------------------------------------------------------------
+   smartctl 6.5 2016-01-24 r4214 [x86_64-linux-4.4.0-53-generic] (local build)
+   Copyright (C) 2002-16, Bruce Allen, Christian Franke, www.smartmontools.org
+   
+   /dev/sdb: Unknown USB bridge [0x03f0:0x3507 (0x100)]
+   Please specify device type with the -d option.
+   
+   Use smartctl -h to get a usage summary
+   
+   smartctl 6.5 2016-01-24 r4214 [x86_64-linux-4.4.0-53-generic] (local build)
+   Copyright (C) 2002-16, Bruce Allen, Christian Franke, www.smartmontools.org
+   
+   /dev/sdb: Unknown USB bridge [0x03f0:0x3507 (0x100)]
+   Please specify device type with the -d option.
+   
+   Use smartctl -h to get a usage summary
+
+Command executed: bash -c "hdparm -I /dev/sdb"
+Information returned:
+----------------------------------------------------------------------------------------------------
+   SG_IO: bad/missing sense data, sb[]:  70 00 05 00 00 00 00 0a 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+   
+   /dev/sdb:
+   
+   ATA device, with non-removable media
+   Standards:
+   	Likely used: 1
+   Configuration:
+   	Logical		max	current
+   	cylinders	0	0
+   	heads		0	0
+   	sectors/track	0	0
+   	--
+   	Logical/Physical Sector size:           512 bytes
+   	device size with M = 1024*1024:           0 MBytes
+   	device size with M = 1000*1000:           0 MBytes 
+   	cache/buffer size  = unknown
+   Capabilities:
+   	IORDY not likely
+   	Cannot perform double-word IO
+   	R/W multiple sector transfer: not supported
+   	DMA: not supported
+   	PIO: pio0
+
+Hidden areas: unknown
+
+
+Acquisition
+===========
+
+Linux device            : /dev/sdb                                                                               
+Device size             : 2021654528 (2,0GB)                                                                     
+Format                  : Expert Witness Format, sub-format Guymager - file extension is .Exx                    
+Image meta data         
+   Case number          : 01                                                                                     
+   Evidence number      : 01                                                                                     
+   Examiner             : Victor Garcia Carrera, victorgarcia@correo.ugr.es                                      
+   Description          : Analisis del pendrive con guymager para la P3S1 de la asignatura SSO                   
+   Notes                : No optional notes                                                                      
+Image path and file name: /home/victor/Documents/UGR/seguridadSO/p3/p3s1/guymager/AnalisisForenseUSBGuymager.Exx 
+Info  path and file name: /home/victor/Documents/UGR/seguridadSO/p3/p3s1/guymager/AnalisisForenseUSBGuymager.info
+Hash calculation        : MD5                                                                                    
+Source verification     : off                                                                                    
+Image verification      : on                                                                                     
+
+No bad sectors encountered during acquisition.
+State: Finished successfully
+
+MD5 hash                   : 7d654f9e8e18df81e83d2fc28db689c0
+MD5 hash verified source   : --                              
+MD5 hash verified image    : 7d654f9e8e18df81e83d2fc28db689c0
+SHA1 hash                  : --                              
+SHA1 hash verified source  : --                              
+SHA1 hash verified image   : --                              
+SHA256 hash                : --                              
+SHA256 hash verified source: --                              
+SHA256 hash verified image : --                              
+Image verification OK. The image contains exactly the data that was written.
+
+Acquisition started : 2018-12-12 21:16:49 (ISO format YYYY-MM-DD HH:MM:SS)   
+Verification started: 2018-12-12 21:18:24                                    
+Ended               : 2018-12-12 21:18:30 (0 hours, 1 minutes and 41 seconds)
+Acquisition speed   : 20.29 MByte/s (0 hours, 1 minutes and 35 seconds)      
+Verification speed  : 385.60 MByte/s (0 hours, 0 minutes and 5 seconds)      
+
+
+Generated image files and their MD5 hashes
+==========================================
+
+No MD5 hashes available (configuration parameter CalcImageFileMD5 is off)
+MD5                               Image file
+n/a                               AnalisisForenseUSBGuymager.E01

@@ -1,0 +1,660 @@
+.:
+total 12
+23068673 drwxr-xr-x 3 root root 4096 Dec 12 18:29 ..
+       4 drwxr-xr-x 4 root root 4096 Dec 12 01:00 STUFF
+       1 drwxr-xr-x 3 root root 4096 Jan  1  1970 .
+
+./STUFF:
+total 16
+4 drwxr-xr-x 4 root root 4096 Dec 12 01:00 .
+7 drwxr-xr-x 5 root root 4096 Dec 12 01:00 scd
+8 drwxr-xr-x 6 root root 4096 Dec 12 01:00 seguridadSO
+1 drwxr-xr-x 3 root root 4096 Jan  1  1970 ..
+
+./STUFF/scd:
+total 1676
+  7 drwxr-xr-x 5 root root    4096 Dec 12 01:00 .
+  4 drwxr-xr-x 4 root root    4096 Dec 12 01:00 ..
+ 13 drwxr-xr-x 8 root root    4096 Dec 12 01:00 .git
+162 drwxr-xr-x 5 root root    4096 Dec 12 01:00 practicas
+360 -rwxr-xr-x 1 root root 1695465 Dec 12 01:00 presentacion SCD.pdf
+155 drwxr-xr-x 2 root root    4096 Dec 12 01:00 teoria
+
+./STUFF/scd/.git:
+total 52
+ 13 drwxr-xr-x  8 root root 4096 Dec 12 01:00 .
+  7 drwxr-xr-x  5 root root 4096 Dec 12 01:00 ..
+ 48 drwxr-xr-x  2 root root 4096 Dec 12 01:00 branches
+368 -rwxr-xr-x  1 root root    7 Dec 12 01:00 COMMIT_EDITMSG
+369 -rwxr-xr-x  1 root root  264 Dec 12 01:00 config
+366 -rwxr-xr-x  1 root root   73 Dec 12 01:00 description
+367 -rwxr-xr-x  1 root root   23 Dec 12 01:00 HEAD
+ 38 drwxr-xr-x  2 root root 4096 Dec 12 01:00 hooks
+370 -rwxr-xr-x  1 root root 2915 Dec 12 01:00 index
+ 36 drwxr-xr-x  2 root root 4096 Dec 12 01:00 info
+143 drwxr-xr-x  3 root root 4096 Dec 12 01:00 logs
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 objects
+ 25 drwxr-xr-x  5 root root 4096 Dec 12 01:00 refs
+
+./STUFF/scd/.git/branches:
+total 8
+48 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+13 drwxr-xr-x 8 root root 4096 Dec 12 01:00 ..
+
+./STUFF/scd/.git/hooks:
+total 48
+ 38 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+ 13 drwxr-xr-x 8 root root 4096 Dec 12 01:00 ..
+388 -rwxr-xr-x 1 root root  478 Dec 12 01:00 applypatch-msg.sample
+381 -rwxr-xr-x 1 root root  896 Dec 12 01:00 commit-msg.sample
+382 -rwxr-xr-x 1 root root  189 Dec 12 01:00 post-update.sample
+387 -rwxr-xr-x 1 root root  424 Dec 12 01:00 pre-applypatch.sample
+383 -rwxr-xr-x 1 root root 1642 Dec 12 01:00 pre-commit.sample
+386 -rwxr-xr-x 1 root root 1239 Dec 12 01:00 prepare-commit-msg.sample
+385 -rwxr-xr-x 1 root root 1348 Dec 12 01:00 pre-push.sample
+384 -rwxr-xr-x 1 root root 4898 Dec 12 01:00 pre-rebase.sample
+380 -rwxr-xr-x 1 root root 3610 Dec 12 01:00 update.sample
+
+./STUFF/scd/.git/info:
+total 12
+ 36 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+ 13 drwxr-xr-x 8 root root 4096 Dec 12 01:00 ..
+390 -rwxr-xr-x 1 root root  240 Dec 12 01:00 exclude
+
+./STUFF/scd/.git/logs:
+total 16
+143 drwxr-xr-x 3 root root 4096 Dec 12 01:00 .
+ 13 drwxr-xr-x 8 root root 4096 Dec 12 01:00 ..
+392 -rwxr-xr-x 1 root root  179 Dec 12 01:00 HEAD
+146 drwxr-xr-x 4 root root 4096 Dec 12 01:00 refs
+
+./STUFF/scd/.git/logs/refs:
+total 16
+146 drwxr-xr-x 4 root root 4096 Dec 12 01:00 .
+143 drwxr-xr-x 3 root root 4096 Dec 12 01:00 ..
+149 drwxr-xr-x 2 root root 4096 Dec 12 01:00 heads
+151 drwxr-xr-x 3 root root 4096 Dec 12 01:00 remotes
+
+./STUFF/scd/.git/logs/refs/heads:
+total 12
+149 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+146 drwxr-xr-x 4 root root 4096 Dec 12 01:00 ..
+394 -rwxr-xr-x 1 root root  179 Dec 12 01:00 master
+
+./STUFF/scd/.git/logs/refs/remotes:
+total 12
+151 drwxr-xr-x 3 root root 4096 Dec 12 01:00 .
+146 drwxr-xr-x 4 root root 4096 Dec 12 01:00 ..
+153 drwxr-xr-x 2 root root 4096 Dec 12 01:00 origin
+
+./STUFF/scd/.git/logs/refs/remotes/origin:
+total 12
+153 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+151 drwxr-xr-x 3 root root 4096 Dec 12 01:00 ..
+396 -rwxr-xr-x 1 root root  169 Dec 12 01:00 master
+
+./STUFF/scd/.git/objects:
+total 132
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 .
+ 13 drwxr-xr-x  8 root root 4096 Dec 12 01:00 ..
+121 drwxr-xr-x  2 root root 4096 Dec 12 01:00 03
+108 drwxr-xr-x  2 root root 4096 Dec 12 01:00 07
+ 85 drwxr-xr-x  2 root root 4096 Dec 12 01:00 1a
+ 92 drwxr-xr-x  2 root root 4096 Dec 12 01:00 2c
+ 94 drwxr-xr-x  2 root root 4096 Dec 12 01:00 33
+ 83 drwxr-xr-x  2 root root 4096 Dec 12 01:00 3a
+139 drwxr-xr-x  2 root root 4096 Dec 12 01:00 41
+125 drwxr-xr-x  2 root root 4096 Dec 12 01:00 4d
+137 drwxr-xr-x  2 root root 4096 Dec 12 01:00 4f
+117 drwxr-xr-x  2 root root 4096 Dec 12 01:00 51
+106 drwxr-xr-x  2 root root 4096 Dec 12 01:00 55
+131 drwxr-xr-x  2 root root 4096 Dec 12 01:00 66
+102 drwxr-xr-x  2 root root 4096 Dec 12 01:00 6c
+129 drwxr-xr-x  2 root root 4096 Dec 12 01:00 73
+119 drwxr-xr-x  2 root root 4096 Dec 12 01:00 76
+ 87 drwxr-xr-x  2 root root 4096 Dec 12 01:00 7c
+ 89 drwxr-xr-x  2 root root 4096 Dec 12 01:00 8c
+100 drwxr-xr-x  2 root root 4096 Dec 12 01:00 93
+123 drwxr-xr-x  2 root root 4096 Dec 12 01:00 97
+115 drwxr-xr-x  2 root root 4096 Dec 12 01:00 9d
+111 drwxr-xr-x  2 root root 4096 Dec 12 01:00 b1
+133 drwxr-xr-x  2 root root 4096 Dec 12 01:00 b7
+104 drwxr-xr-x  2 root root 4096 Dec 12 01:00 ba
+127 drwxr-xr-x  2 root root 4096 Dec 12 01:00 c0
+ 98 drwxr-xr-x  2 root root 4096 Dec 12 01:00 cc
+113 drwxr-xr-x  2 root root 4096 Dec 12 01:00 ea
+135 drwxr-xr-x  2 root root 4096 Dec 12 01:00 ef
+ 96 drwxr-xr-x  2 root root 4096 Dec 12 01:00 f0
+141 drwxr-xr-x  2 root root 4096 Dec 12 01:00 f1
+ 82 drwxr-xr-x  2 root root 4096 Dec 12 01:00 info
+ 81 drwxr-xr-x  2 root root 4096 Dec 12 01:00 pack
+
+./STUFF/scd/.git/objects/03:
+total 24
+121 drwxr-xr-x  2 root root  4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root  4096 Dec 12 01:00 ..
+398 -r-xr-xr-x  1 root root 13156 Dec 12 01:00 7644b9e84259b0aebeb1f691f6a7e06d55f871
+
+./STUFF/scd/.git/objects/07:
+total 496
+108 drwxr-xr-x  2 root root   4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root   4096 Dec 12 01:00 ..
+401 -r-xr-xr-x  1 root root   1132 Dec 12 01:00 68582c8f3ebd026a06cc8d83a09ec7570db55c
+402 -r-xr-xr-x  1 root root 494838 Dec 12 01:00 6cfbf480e72f9555537dfe442ecd945d7f4d1a
+
+./STUFF/scd/.git/objects/1a:
+total 12
+ 85 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+404 -r-xr-xr-x  1 root root 1076 Dec 12 01:00 b53ff275d90e9b865f8fae05aa36822fe2df9d
+
+./STUFF/scd/.git/objects/2c:
+total 12
+ 92 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+406 -r-xr-xr-x  1 root root 1708 Dec 12 01:00 75fa0005e577f4a7246cda27adbba0a26283bd
+
+./STUFF/scd/.git/objects/33:
+total 12
+ 94 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+408 -r-xr-xr-x  1 root root  585 Dec 12 01:00 26506d4f8d649221c14dd9dd9383698ee901dc
+
+./STUFF/scd/.git/objects/3a:
+total 12
+ 83 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+410 -r-xr-xr-x  1 root root 2173 Dec 12 01:00 d0d056530d01bda34f9608169640f6e6380315
+
+./STUFF/scd/.git/objects/41:
+total 12
+139 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+412 -r-xr-xr-x  1 root root  131 Dec 12 01:00 c9654d6b6a6f6feae309814f7a05906696e016
+
+./STUFF/scd/.git/objects/4d:
+total 728
+125 drwxr-xr-x  2 root root   4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root   4096 Dec 12 01:00 ..
+414 -r-xr-xr-x  1 root root 734765 Dec 12 01:00 fda405555e1c29cf23abce7b74f58e4869ef0a
+
+./STUFF/scd/.git/objects/4f:
+total 12
+137 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+416 -r-xr-xr-x  1 root root  152 Dec 12 01:00 cc3107ed2e7b313bfc30ac474abd9410ddcb49
+
+./STUFF/scd/.git/objects/51:
+total 12
+117 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+418 -r-xr-xr-x  1 root root 1055 Dec 12 01:00 b46af0cf64eaadae50766c152c05cdf971d81f
+
+./STUFF/scd/.git/objects/55:
+total 12
+106 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+420 -r-xr-xr-x  1 root root  668 Dec 12 01:00 7d30441f74c7961e687ae010451b9d5b28802d
+
+./STUFF/scd/.git/objects/66:
+total 12
+131 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+422 -r-xr-xr-x  1 root root  192 Dec 12 01:00 aa33e9a27efae820e57a3f85b6f5ffe22ad7ab
+
+./STUFF/scd/.git/objects/6c:
+total 12
+102 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+424 -r-xr-xr-x  1 root root  618 Dec 12 01:00 c1bf0eb6af0abce5bc384eb92ce7f052ead640
+
+./STUFF/scd/.git/objects/73:
+total 344
+129 drwxr-xr-x  2 root root   4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root   4096 Dec 12 01:00 ..
+426 -r-xr-xr-x  1 root root 341792 Dec 12 01:00 3af1d25f52cd784ace54d7eaee4110dc0c65fb
+
+./STUFF/scd/.git/objects/76:
+total 12
+119 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+428 -r-xr-xr-x  1 root root  282 Dec 12 01:00 661eb332ddb9e22efb0aca308bd314f9cb3b14
+
+./STUFF/scd/.git/objects/7c:
+total 12
+ 87 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+430 -r-xr-xr-x  1 root root  816 Dec 12 01:00 449e812e432ba5c19564f6b8dbaaed5e1b258f
+
+./STUFF/scd/.git/objects/8c:
+total 16
+ 89 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+433 -r-xr-xr-x  1 root root  181 Dec 12 01:00 9284561c84e6f963ab18f15fc9f3fcf1a41c41
+434 -r-xr-xr-x  1 root root  635 Dec 12 01:00 ebb7619a446aebb8495a4aad2f7277324bea57
+
+./STUFF/scd/.git/objects/93:
+total 12
+100 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+436 -r-xr-xr-x  1 root root  681 Dec 12 01:00 dab46eb60ddb2a2551a6ea91e3adfc3bf1a451
+
+./STUFF/scd/.git/objects/97:
+total 1652
+123 drwxr-xr-x  2 root root    4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root    4096 Dec 12 01:00 ..
+438 -r-xr-xr-x  1 root root 1681022 Dec 12 01:00 fe966fd12d9ebf59affe9a697fa1978484dce4
+
+./STUFF/scd/.git/objects/9d:
+total 12
+115 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+440 -r-xr-xr-x  1 root root  817 Dec 12 01:00 ae503b6eafe4dc33e4d8fe0afef1ae67d5a348
+
+./STUFF/scd/.git/objects/b1:
+total 12
+111 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+442 -r-xr-xr-x  1 root root  800 Dec 12 01:00 829327d6ba25c94ddcf05a0ce81d8f9d7999a5
+
+./STUFF/scd/.git/objects/b7:
+total 12
+133 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+444 -r-xr-xr-x  1 root root  553 Dec 12 01:00 c7023c344ee805d20bdc9a996a7ba7a39b599a
+
+./STUFF/scd/.git/objects/ba:
+total 12
+104 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+446 -r-xr-xr-x  1 root root  694 Dec 12 01:00 787e1c50fe0d067b096fb11f0ef9f8e79384e8
+
+./STUFF/scd/.git/objects/c0:
+total 128
+127 drwxr-xr-x  2 root root   4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root   4096 Dec 12 01:00 ..
+448 -r-xr-xr-x  1 root root 120937 Dec 12 01:00 0fc2604432b7b1823e993b174d502db24470fc
+
+./STUFF/scd/.git/objects/cc:
+total 12
+ 98 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+450 -r-xr-xr-x  1 root root  628 Dec 12 01:00 81e64ce84d7444eecaf8eeb001239b6e0a4bc3
+
+./STUFF/scd/.git/objects/ea:
+total 12
+113 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+452 -r-xr-xr-x  1 root root  903 Dec 12 01:00 4104e0543eb2688a8e5a92f6a75e61e60d9770
+
+./STUFF/scd/.git/objects/ef:
+total 12
+135 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+454 -r-xr-xr-x  1 root root   79 Dec 12 01:00 b653c6cb08b9facf845d9a21230285f2fb3c63
+
+./STUFF/scd/.git/objects/f0:
+total 12
+ 96 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+456 -r-xr-xr-x  1 root root  552 Dec 12 01:00 149adb2d7f120ee77998c39735bb33d8bf9884
+
+./STUFF/scd/.git/objects/f1:
+total 12
+141 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+ 49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+458 -r-xr-xr-x  1 root root  137 Dec 12 01:00 ffaaa61a7f0c8646ba7ca4210c7431eae19430
+
+./STUFF/scd/.git/objects/info:
+total 8
+82 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+
+./STUFF/scd/.git/objects/pack:
+total 8
+81 drwxr-xr-x  2 root root 4096 Dec 12 01:00 .
+49 drwxr-xr-x 33 root root 4096 Dec 12 01:00 ..
+
+./STUFF/scd/.git/refs:
+total 20
+25 drwxr-xr-x 5 root root 4096 Dec 12 01:00 .
+13 drwxr-xr-x 8 root root 4096 Dec 12 01:00 ..
+29 drwxr-xr-x 2 root root 4096 Dec 12 01:00 heads
+32 drwxr-xr-x 3 root root 4096 Dec 12 01:00 remotes
+31 drwxr-xr-x 2 root root 4096 Dec 12 01:00 tags
+
+./STUFF/scd/.git/refs/heads:
+total 12
+ 29 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+ 25 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+460 -rwxr-xr-x 1 root root   41 Dec 12 01:00 master
+
+./STUFF/scd/.git/refs/remotes:
+total 12
+32 drwxr-xr-x 3 root root 4096 Dec 12 01:00 .
+25 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+34 drwxr-xr-x 2 root root 4096 Dec 12 01:00 origin
+
+./STUFF/scd/.git/refs/remotes/origin:
+total 12
+ 34 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+ 32 drwxr-xr-x 3 root root 4096 Dec 12 01:00 ..
+462 -rwxr-xr-x 1 root root   41 Dec 12 01:00 master
+
+./STUFF/scd/.git/refs/tags:
+total 8
+31 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+25 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+
+./STUFF/scd/practicas:
+total 984
+162 drwxr-xr-x 5 root root   4096 Dec 12 01:00 .
+  7 drwxr-xr-x 5 root root   4096 Dec 12 01:00 ..
+167 drwxr-xr-x 3 root root   4096 Dec 12 01:00 p1
+198 drwxr-xr-x 4 root root   4096 Dec 12 01:00 p2
+241 drwxr-xr-x 5 root root   4096 Dec 12 01:00 p3
+464 -rwxr-xr-x 1 root root 986965 Dec 12 01:00 p3-20181205T182124Z-001.zip
+
+./STUFF/scd/practicas/p1:
+total 404
+167 drwxr-xr-x 3 root root   4096 Dec 12 01:00 .
+162 drwxr-xr-x 5 root root   4096 Dec 12 01:00 ..
+477 -rwxr-xr-x 1 root root   7127 Dec 12 01:00 estancos2.cpp
+478 -rwxr-xr-x 1 root root   4441 Dec 12 01:00 fumadores.cpp
+476 -rwxr-xr-x 1 root root   5457 Dec 12 01:00 fumadores_limit.cpp
+482 -rwxr-xr-x 1 root root    248 Dec 12 01:00 makefile
+483 -rwxr-xr-x 1 root root   2471 Dec 12 01:00 practica1.tar.gz
+479 -rwxr-xr-x 1 root root   7864 Dec 12 01:00 prodcons.cpp
+484 -rwxr-xr-x 1 root root 111992 Dec 12 01:00 prodcons_exe
+475 -rwxr-xr-x 1 root root 231081 Dec 12 01:00 scd-p1-sema.pdf
+480 -rwxr-xr-x 1 root root   6759 Dec 12 01:00 Semaphore.cpp
+481 -rwxr-xr-x 1 root root   2341 Dec 12 01:00 Semaphore.h
+179 drwxr-xr-x 2 root root   4096 Dec 12 01:00 seminario1
+
+./STUFF/scd/practicas/p1/seminario1:
+total 644
+179 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+167 drwxr-xr-x 3 root root   4096 Dec 12 01:00 ..
+503 -rwxr-xr-x 1 root root   1295 Dec 12 01:00 ejemplo01.cpp
+504 -rwxr-xr-x 1 root root   1292 Dec 12 01:00 ejemplo02.cpp
+505 -rwxr-xr-x 1 root root   1405 Dec 12 01:00 ejemplo03.cpp
+506 -rwxr-xr-x 1 root root   1455 Dec 12 01:00 ejemplo04.cpp
+507 -rwxr-xr-x 1 root root   1286 Dec 12 01:00 ejemplo05.cpp
+508 -rwxr-xr-x 1 root root   1456 Dec 12 01:00 ejemplo06.cpp
+509 -rwxr-xr-x 1 root root   1283 Dec 12 01:00 ejemplo07.cpp
+510 -rwxr-xr-x 1 root root   1394 Dec 12 01:00 ejemplo08.cpp
+511 -rwxr-xr-x 1 root root   3186 Dec 12 01:00 ejemplo09-plantilla.cpp
+512 -rwxr-xr-x 1 root root   2237 Dec 12 01:00 ejemplo10.cpp
+513 -rwxr-xr-x 1 root root   2986 Dec 12 01:00 ejemplo11.cpp
+514 -rwxr-xr-x 1 root root   1713 Dec 12 01:00 ejemplo12.cpp
+520 -rwxr-xr-x 1 root root   3077 Dec 12 01:00 ejemplo13-s.cpp
+516 -rwxr-xr-x 1 root root    465 Dec 12 01:00 makefile
+515 -rwxr-xr-x 1 root root  14851 Dec 12 01:00 scd-s1-fuentes.zip
+519 -rwxr-xr-x 1 root root 563937 Dec 12 01:00 scd-s1-intro.pdf
+517 -rwxr-xr-x 1 root root   6759 Dec 12 01:00 Semaphore.cpp
+518 -rwxr-xr-x 1 root root   2341 Dec 12 01:00 Semaphore.h
+
+./STUFF/scd/practicas/p2:
+total 476
+198 drwxr-xr-x 4 root root   4096 Dec 12 01:00 .
+162 drwxr-xr-x 5 root root   4096 Dec 12 01:00 ..
+533 -rwxr-xr-x 1 root root   8138 Dec 12 01:00 barberia.cpp
+212 drwxr-xr-x 2 root root   4096 Dec 12 01:00 examen
+540 -rwxr-xr-x 1 root root   7700 Dec 12 01:00 fumadores_su.cpp
+542 -rwxr-xr-x 1 root root 243768 Dec 12 01:00 fumadores_su_exe
+534 -rwxr-xr-x 1 root root  11494 Dec 12 01:00 HoareMonitor.cpp
+535 -rwxr-xr-x 1 root root   9921 Dec 12 01:00 HoareMonitor.h
+541 -rwxr-xr-x 1 root root    467 Dec 12 01:00 makefile
+539 -rwxr-xr-x 1 root root  13915 Dec 12 01:00 prodcons2_su.cpp
+536 -rwxr-xr-x 1 root root     47 Dec 12 01:00 README.txt
+532 -rwxr-xr-x 1 root root 144041 Dec 12 01:00 scd-p2-monitores.pdf
+537 -rwxr-xr-x 1 root root   6759 Dec 12 01:00 Semaphore.cpp
+538 -rwxr-xr-x 1 root root   2341 Dec 12 01:00 Semaphore.h
+222 drwxr-xr-x 2 root root   4096 Dec 12 01:00 seminario2
+
+./STUFF/scd/practicas/p2/examen:
+total 324
+212 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+198 drwxr-xr-x 4 root root   4096 Dec 12 01:00 ..
+559 -rwxr-xr-x 1 root root   6597 Dec 12 01:00 ejercicio2.cpp
+560 -rwxr-xr-x 1 root root  15520 Dec 12 01:00 ExamenP2VGC.zip
+552 -rwxr-xr-x 1 root root   9073 Dec 12 01:00 fuma_ex.cpp
+558 -rwxr-xr-x 1 root root 243800 Dec 12 01:00 fuma_ex_exe
+553 -rwxr-xr-x 1 root root  11494 Dec 12 01:00 HoareMonitor.cpp
+554 -rwxr-xr-x 1 root root   9921 Dec 12 01:00 HoareMonitor.h
+555 -rwxr-xr-x 1 root root    458 Dec 12 01:00 makefile
+556 -rwxr-xr-x 1 root root   6759 Dec 12 01:00 Semaphore.cpp
+557 -rwxr-xr-x 1 root root   2341 Dec 12 01:00 Semaphore.h
+
+./STUFF/scd/practicas/p2/seminario2:
+total 824
+222 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+198 drwxr-xr-x 4 root root   4096 Dec 12 01:00 ..
+587 -rwxr-xr-x 1 root root   3646 Dec 12 01:00 barrera1_sc.cpp
+588 -rwxr-xr-x 1 root root   3432 Dec 12 01:00 barrera2_sc.cpp
+589 -rwxr-xr-x 1 root root   3453 Dec 12 01:00 barrera2_su.cpp
+583 -rwxr-xr-x 1 root root 369211 Dec 12 01:00 EXTRALigaduraDinamicaC++.pdf
+584 -rwxr-xr-x 1 root root  11494 Dec 12 01:00 HoareMonitor.cpp
+591 -rwxr-xr-x 1 root root   9921 Dec 12 01:00 HoareMonitor.h
+593 -rwxr-xr-x 1 root root    562 Dec 12 01:00 makefile
+590 -rwxr-xr-x 1 root root   5778 Dec 12 01:00 monitor_em.cpp
+585 -rwxr-xr-x 1 root root  12099 Dec 12 01:00 prodcons1_sc.cpp
+594 -rwxr-xr-x 1 root root  13675 Dec 12 01:00 prodcons2_sc.cpp
+595 -rwxr-xr-x 1 root root  13482 Dec 12 01:00 prodcons2_su.cpp
+579 -rwxr-xr-x 1 root root  19792 Dec 12 01:00 prod_cons_monitores_SC_SU_VGC.zip
+580 -rwxr-xr-x 1 root root  19717 Dec 12 01:00 prodscons_monitoresSCSU_VGC.zip
+596 -rwxr-xr-x 1 root root    242 Dec 12 01:00 README.txt
+582 -rwxr-xr-x 1 root root  18167 Dec 12 01:00 scd-s2-fuentes.zip
+581 -rwxr-xr-x 1 root root 288528 Dec 12 01:00 scd-s2-monitores.pdf
+586 -rwxr-xr-x 1 root root   6759 Dec 12 01:00 Semaphore.cpp
+592 -rwxr-xr-x 1 root root   2341 Dec 12 01:00 Semaphore.h
+
+./STUFF/scd/practicas/p3:
+total 872
+241 drwxr-xr-x 5 root root   4096 Dec 12 01:00 .
+162 drwxr-xr-x 5 root root   4096 Dec 12 01:00 ..
+258 drwxr-xr-x 2 root root   4096 Dec 12 01:00 ejemplos
+267 drwxr-xr-x 2 root root   4096 Dec 12 01:00 examen
+616 -rwxr-xr-x 1 root root   8448 Dec 12 01:00 filosofos-cam.cpp
+613 -rwxr-xr-x 1 root root   6236 Dec 12 01:00 filosofos.cpp
+608 -rwxr-xr-x 1 root root   5359 Dec 12 01:00 filosofos-interb.cpp
+609 -rwxr-xr-x 1 root root    481 Dec 12 01:00 makefile
+607 -rwxr-xr-x 1 root root   6168 Dec 12 01:00 prodcons2.cpp
+615 -rwxr-xr-x 1 root root   7106 Dec 12 01:00 prodcons2-mu.cpp
+610 -rwxr-xr-x 1 root root   5152 Dec 12 01:00 prodcons.cpp
+614 -rwxr-xr-x 1 root root    199 Dec 12 01:00 README.txt
+612 -rwxr-xr-x 1 root root 402659 Dec 12 01:00 scd-p3-mensajes.pdf
+611 -rwxr-xr-x 1 root root 402295 Dec 12 01:00 scd-s3-mensajes.pdf
+255 drwxr-xr-x 2 root root   4096 Dec 12 01:00 zips
+
+./STUFF/scd/practicas/p3/ejemplos:
+total 48
+258 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+241 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+626 -rwxr-xr-x 1 root root 5117 Dec 12 01:00 ejemplo_iprobe.cpp
+632 -rwxr-xr-x 1 root root 4485 Dec 12 01:00 ejemplo_probe.cpp
+630 -rwxr-xr-x 1 root root  856 Dec 12 01:00 holamundo.cpp
+629 -rwxr-xr-x 1 root root 1816 Dec 12 01:00 intercambio_nobloq.cpp
+628 -rwxr-xr-x 1 root root 1908 Dec 12 01:00 intercambio_sincrono.cpp
+625 -rwxr-xr-x 1 root root  421 Dec 12 01:00 makefile
+631 -rwxr-xr-x 1 root root 2367 Dec 12 01:00 sendrecv1.cpp
+627 -rwxr-xr-x 1 root root 1905 Dec 12 01:00 sendrecv2.cpp
+
+./STUFF/scd/practicas/p3/examen:
+total 24
+267 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+241 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+636 -rwxr-xr-x 1 root root  201 Dec 12 01:00 makefile
+635 -rwxr-xr-x 1 root root 8747 Dec 12 01:00 prodcons.cpp
+
+./STUFF/scd/practicas/p3/zips:
+total 28
+255 drwxr-xr-x 2 root root 4096 Dec 12 01:00 .
+241 drwxr-xr-x 5 root root 4096 Dec 12 01:00 ..
+640 -rwxr-xr-x 1 root root 5730 Dec 12 01:00 scd-p3-fuentes.zip
+639 -rwxr-xr-x 1 root root 8462 Dec 12 01:00 scd-s3-fuentes.zip
+
+./STUFF/scd/teoria:
+total 8072
+155 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+  7 drwxr-xr-x 5 root root    4096 Dec 12 01:00 ..
+650 -rwxr-xr-x 1 root root  783726 Dec 12 01:00 Diapositivas-Tema1.pdf
+648 -rwxr-xr-x 1 root root   91833 Dec 12 01:00 Ejercicios-tema2.pdf
+651 -rwxr-xr-x 1 root root  143616 Dec 12 01:00 Relacion_Ejercicios_Temas_1.pdf
+652 -rwxr-xr-x 1 root root  358294 Dec 12 01:00 scd-t1-intro.pdf
+649 -rwxr-xr-x 1 root root 2909584 Dec 12 01:00 Tema2-Apuntes.pdf
+647 -rwxr-xr-x 1 root root 3953530 Dec 12 01:00 Tema2-DIapositivas.pdf
+
+./STUFF/seguridadSO:
+total 3520
+  8 drwxr-xr-x 6 root root    4096 Dec 12 01:00 .
+  4 drwxr-xr-x 4 root root    4096 Dec 12 01:00 ..
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 p1
+276 drwxr-xr-x 4 root root    4096 Dec 12 01:00 p2
+350 drwxr-xr-x 3 root root    4096 Dec 12 01:00 p3
+655 -rwxr-xr-x 1 root root 1833209 Dec 12 01:00 Tema1_SSO_2018-19.pdf
+656 -rwxr-xr-x 1 root root 1741674 Dec 12 01:00 Tema_2_2018-19.pdf
+356 drwxr-xr-x 2 root root    4096 Dec 12 01:00 trabajoGrupal
+
+./STUFF/seguridadSO/p1:
+total 32
+305 drwxr-xr-x 8 root root 4096 Dec 12 01:00 .
+  8 drwxr-xr-x 6 root root 4096 Dec 12 01:00 ..
+338 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s1
+346 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s2
+342 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s3
+312 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s4
+325 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s5
+316 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p1s6
+
+./STUFF/seguridadSO/p1/p1s1:
+total 10572
+338 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 ..
+661 -rwxr-xr-x 1 root root 5557338 Dec 12 01:00 MemoriaPractica1.odt
+662 -rwxr-xr-x 1 root root 4909143 Dec 12 01:00 MemoriaPractica1VGC.pdf
+660 -rwxr-xr-x 1 root root  345774 Dec 12 01:00 Practica_1_S1_18-19.pdf
+
+./STUFF/seguridadSO/p1/p1s2:
+total 9588
+346 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 ..
+667 -rwxr-xr-x 1 root root 5177091 Dec 12 01:00 MemoriaPractica1S2VGC.odt
+668 -rwxr-xr-x 1 root root 4491590 Dec 12 01:00 MemoriaPractica1S2VGC.pdf
+666 -rwxr-xr-x 1 root root  135725 Dec 12 01:00 Practica_1_S2_18-19.pdf
+
+./STUFF/seguridadSO/p1/p1s3:
+total 4128
+342 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 ..
+674 -rwxr-xr-x 1 root root 1816984 Dec 12 01:00 MemoriaPractica1S3VGC-noedit.pdf
+673 -rwxr-xr-x 1 root root 1868933 Dec 12 01:00 MemoriaPractica1S3VGC.pdf
+672 -rwxr-xr-x 1 root root  524957 Dec 12 01:00 Practica_1_S3_18-19.pdf
+
+./STUFF/seguridadSO/p1/p1s4:
+total 18972
+312 drwxr-xr-x 2 root root     4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root     4096 Dec 12 01:00 ..
+678 -rwxr-xr-x 1 root root  8553137 Dec 12 01:00 MemoriaPractica1S4VGC.odt
+679 -rwxr-xr-x 1 root root 10399905 Dec 12 01:00 MemoriaPractica1S4VGC.pdf
+680 -rwxr-xr-x 1 root root   455144 Dec 12 01:00 Practica1_S4_18-19.pdf
+
+./STUFF/seguridadSO/p1/p1s5:
+total 6788
+325 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 ..
+698 -rwxr-xr-x 1 root root    3622 Dec 12 01:00 antonioprivkey
+699 -rwxr-xr-x 1 root root    1731 Dec 12 01:00 antoniopubkey
+696 -rwxr-xr-x 1 root root      80 Dec 12 01:00 cipher.bin
+702 -rwxr-xr-x 1 root root 3553175 Dec 12 01:00 MemoriaPractica1S5VGC.odt
+704 -rwxr-xr-x 1 root root 3171484 Dec 12 01:00 MemoriaPractica1S5VGC.pdf
+695 -rwxr-xr-x 1 root root      54 Dec 12 01:00 openssl.txt
+697 -rwxr-xr-x 1 root root  175995 Dec 12 01:00 Practica1_S5_17-18.pdf
+703 -rwxr-xr-x 1 root root     246 Dec 12 01:00 README.txt
+694 -rwxr-xr-x 1 root root     146 Dec 12 01:00 RSAfile.txt
+700 -rwxr-xr-x 1 root root     725 Dec 12 01:00 RSAfile.txt.asc
+693 -rwxr-xr-x 1 root root    3630 Dec 12 01:00 vgcprivkey
+701 -rwxr-xr-x 1 root root    1739 Dec 12 01:00 vgcpubkey
+
+./STUFF/seguridadSO/p1/p1s6:
+total 6612
+316 drwxr-xr-x 2 root root    4096 Dec 12 01:00 .
+305 drwxr-xr-x 8 root root    4096 Dec 12 01:00 ..
+720 -rwxr-xr-x 1 root root 3297958 Dec 12 01:00 MemoriaP1S6VGC.pdf
+715 -rwxr-xr-x 1 root root 2997840 Dec 12 01:00 MemoriaPractica1S6VGC.odt
+714 -rwxr-xr-x 1 root root     188 Dec 12 01:00 ocultar.txt
+718 -rwxr-xr-x 1 root root   90436 Dec 12 01:00 portadora2.jpg
+717 -rwxr-xr-x 1 root root   90383 Dec 12 01:00 portadora.jpg
+719 -rwxr-xr-x 1 root root  117266 Dec 12 01:00 portadora_original.jpg
+713 -rwxr-xr-x 1 root root  144952 Dec 12 01:00 Practica_1_S6_18-19.pdf
+716 -rwxr-xr-x 1 root root     394 Dec 12 01:00 README.txt
+
+./STUFF/seguridadSO/p2:
+total 16
+276 drwxr-xr-x 4 root root 4096 Dec 12 01:00 .
+  8 drwxr-xr-x 6 root root 4096 Dec 12 01:00 ..
+279 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p2s1
+281 drwxr-xr-x 3 root root 4096 Dec 12 01:00 p2s2
+
+./STUFF/seguridadSO/p2/p2s1:
+total 320
+279 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+276 drwxr-xr-x 4 root root   4096 Dec 12 01:00 ..
+722 -rwxr-xr-x 1 root root 317236 Dec 12 01:00 Practica_2_S1_18-19.pdf
+
+./STUFF/seguridadSO/p2/p2s2:
+total 2324
+281 drwxr-xr-x 3 root root   4096 Dec 12 01:00 .
+276 drwxr-xr-x 4 root root   4096 Dec 12 01:00 ..
+735 -rwxr-xr-x 1 root root   8672 Dec 12 01:00 buffer_addr
+736 -rwxr-xr-x 1 root root    123 Dec 12 01:00 buffer_addr.c
+740 -rwxr-xr-x 1 root root    524 Dec 12 01:00 LINKs.txt
+734 -rwxr-xr-x 1 root root 432228 Dec 12 01:00 MALLLPractica2S2VGC.pdf
+733 -rwxr-xr-x 1 root root 880086 Dec 12 01:00 MemoriaPractica2S2VGC.odt
+739 -rwxr-xr-x 1 root root 841828 Dec 12 01:00 P2S2VGC.pdf
+732 -rwxr-xr-x 1 root root 168290 Dec 12 01:00 Practica_2_S2_18-19.pdf
+292 drwxr-xr-x 3 root root   4096 Dec 12 01:00 virus
+738 -rwxr-xr-x 1 root root   8720 Dec 12 01:00 weakaslr
+737 -rwxr-xr-x 1 root root    183 Dec 12 01:00 weakaslr.c
+
+./STUFF/seguridadSO/p2/p2s2/virus:
+total 88
+292 drwxr-xr-x 3 root root  4096 Dec 12 01:00 .
+281 drwxr-xr-x 3 root root  4096 Dec 12 01:00 ..
+752 -rwxr-xr-x 1 root root   527 Dec 12 01:00 create
+758 -rwxr-xr-x 1 root root   521 Dec 12 01:00 create2
+756 -rwxr-xr-x 1 root root 14344 Dec 12 01:00 elfvirus
+750 -rwxr-xr-x 1 root root  9020 Dec 12 01:00 elfvirus.c
+751 -rwxr-xr-x 1 root root 14576 Dec 12 01:00 lx2k2
+755 -rwxr-xr-x 1 root root  5906 Dec 12 01:00 lx2k2.c
+757 -rwxr-xr-x 1 root root  5846 Dec 12 01:00 lx2k2.c.bak
+753 -rwxr-xr-x 1 root root   555 Dec 12 01:00 lx2k2_cleaner
+754 -rwxr-xr-x 1 root root   494 Dec 12 01:00 README
+303 drwxr-xr-x 2 root root  4096 Dec 12 01:00 VIRUS_PRUEBA
+
+./STUFF/seguridadSO/p2/p2s2/virus/VIRUS_PRUEBA:
+total 120
+303 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+292 drwxr-xr-x 3 root root   4096 Dec 12 01:00 ..
+760 -rwxr-xr-x 1 root root 111992 Dec 12 01:00 prodcons_exe
+
+./STUFF/seguridadSO/p3:
+total 12
+350 drwxr-xr-x 3 root root 4096 Dec 12 01:00 .
+  8 drwxr-xr-x 6 root root 4096 Dec 12 01:00 ..
+352 drwxr-xr-x 2 root root 4096 Dec 12 01:00 p3s1
+
+./STUFF/seguridadSO/p3/p3s1:
+total 528
+352 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+350 drwxr-xr-x 3 root root   4096 Dec 12 01:00 ..
+766 -rwxr-xr-x 1 root root     79 Dec 12 01:00 .~lock.P3S1VGC.odt#
+765 -rwxr-xr-x 1 root root  18750 Dec 12 01:00 P3S1VGC.odt
+764 -rwxr-xr-x 1 root root 507094 Dec 12 01:00 Practica_3_S1_18-19.pdf
+
+./STUFF/seguridadSO/trabajoGrupal:
+total 524
+356 drwxr-xr-x 2 root root   4096 Dec 12 01:00 .
+  8 drwxr-xr-x 6 root root   4096 Dec 12 01:00 ..
+770 -rwxr-xr-x 1 root root 396118 Dec 12 01:00 ReferenciasBibliografica.pdf
+769 -rwxr-xr-x 1 root root 128456 Dec 12 01:00 TrabajosPresentaciones_2018-19.pdf
